@@ -6,6 +6,9 @@ public class Person {
     private String phone;
     private String email;
 
+    public Person() {
+    }
+
     public Person(Person person) {
         name = person.name;
         phone = person.phone;
