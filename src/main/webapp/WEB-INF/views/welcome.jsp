@@ -8,6 +8,7 @@
     <!-- Bootstrap core CSS -->
     <link href="webjars/bootstrap/4.3.1/css/bootstrap.min.css"
           rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
 
     <style>
         .footer {
