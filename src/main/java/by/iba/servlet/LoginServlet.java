@@ -1,7 +1,6 @@
 package by.iba.servlet;
 
 import by.iba.dao.UserDao;
-import by.iba.model.ListService;
 import by.iba.util.HashPassword;
 
 import javax.servlet.ServletException;
@@ -13,7 +12,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.time.LocalDateTime;
 
 

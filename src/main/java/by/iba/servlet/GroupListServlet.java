@@ -1,7 +1,6 @@
 package by.iba.servlet;
 
 import by.iba.dao.PersonDao;
-import by.iba.model.ListService;
 import by.iba.model.Person;
 
 import javax.servlet.ServletException;
